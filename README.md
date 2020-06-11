@@ -10,5 +10,5 @@ laravel-vue-pagination
 
 ## Install dependancies
 
-Run npm install \n
+Run npm install,
 Run npm dev
