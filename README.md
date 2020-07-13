@@ -1,15 +1,15 @@
 ## To Do App
 
 # Technonologie
-*Laravel
-*Vuejs
+Laravel
+Vuejs
 
 ## Dependancies
 
-*Vue-router
-*Laravel-vue-pagination
+Vue-router
+Laravel-vue-pagination
 
 ## Install dependancies
 
-*Run npm install
-*Run npm dev
+Run npm install
+Run npm dev
